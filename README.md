@@ -24,4 +24,6 @@ My motivation is knowing people like you benefit from this resource.
 - etc.
 
 Read about me here: [mvandi.com](https://mvandi.com)
+
+
 Drop a shout out or Follow on [Twitter](https://twitter.com/michael_vandi)? No?
