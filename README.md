@@ -1,6 +1,6 @@
-# Your Ultimate Coding Interview Prep FREE
+# Your Ultimate FREE Coding Interview Prep
 
-## See Full Video Whiteboard and Live Coding explanations on my YouTube channel
+## See Full Video Whiteboard and Live Coding explanations on my [YouTube](https://www.youtube.com/channel/UCZOiUkaF2fy8Mn0gZiKiDyQ/videos) channel
 
 ## Difficulty Level
 
