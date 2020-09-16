@@ -2,8 +2,7 @@
 
 ## See Full Video Whiteboard and Live Coding explanations on my [YouTube](https://www.youtube.com/channel/UCZOiUkaF2fy8Mn0gZiKiDyQ/videos) channel
 
-Also, please consider subscribing. It'll help me keep adding more content.
-My motivation is knowing people like you benefit from this resource.
+Please consider subscribing.
 
 ## Difficulty Levels
 
@@ -24,6 +23,5 @@ My motivation is knowing people like you benefit from this resource.
 - etc.
 
 Read about me here: [mvandi.com](https://mvandi.com)
-
 
 Drop a shout out or Follow on [Twitter](https://twitter.com/michael_vandi)? No?
