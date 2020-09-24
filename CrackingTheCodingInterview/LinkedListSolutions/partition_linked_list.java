@@ -14,7 +14,7 @@ public ListNode partition(ListNode node, int x) {
     while (node != null) {
         // Let us insert into the before and after lists
         ListNode next = node.next;
-        node.next = null; // ??
+        node.next = null; // Cut off the connection to the other nodes
         if (node.val < x) {
             // Insert into before list
             if (beforeStart == null) {
@@ -34,7 +34,7 @@ public ListNode partition(ListNode node, int x) {
                 afterEnd = node;
             }
         }
-        node = node.next;
+        node = next;
     }
     // Now we check if our before list == null, meaning we only
     // Have nodes that are greater so we return after
