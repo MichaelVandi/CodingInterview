@@ -4,6 +4,8 @@
 
 Please consider subscribing.
 
+![YouTube Channel Homepage](https://drive.google.com/file/d/1gGa6eKCMgiaXNpm4nRy78ei-he1yyjmE/view?usp=sharing)
+
 ## Difficulty Levels
 
 1. Easy
@@ -13,14 +15,19 @@ Please consider subscribing.
 ## Topics Include
 
 - Arrays
-- Dynamic Programming
+- Strings
 - Graphs (BFS, DFS)
+- Recursion
+- Stacks and Queues
+- Dynamic Programming
 - Heaps
 - Searching Algorithms
 - Sorting Algorithms
 - String Manipulation
 - Trees
 - etc.
+
+## Data Structures Covered
 
 Read about me here: [mvandi.com](https://mvandi.com)
 
