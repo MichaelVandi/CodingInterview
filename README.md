@@ -8,9 +8,9 @@ Please consider subscribing.
 
 ## Difficulty Levels
 
-1. Easy [go to folder](Easy/)
-2. Medium [go to folder](Medium/)
-3. Hard [go to folder](Medium/)
+1. Easy [(go to folder)](Easy/)
+2. Medium [(go to folder)](Medium/)
+3. Hard [(go to folder)](Medium/)
 
 ## Enjoy Questions and Solutions from
 
