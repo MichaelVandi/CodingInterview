@@ -1,6 +1,6 @@
 # Your Ultimate FREE Coding Interview Prep
 
-## See Full Video Whiteboard and Live Coding explanations on my [YouTube](https://www.youtube.com/channel/UCZOiUkaF2fy8Mn0gZiKiDyQ/videos) channel
+## See Full Video Whiteboard and Live Coding explanations on my [YouTube channel](https://www.youtube.com/channel/UCZOiUkaF2fy8Mn0gZiKiDyQ/videos)
 
 Please consider subscribing.
 
@@ -28,6 +28,17 @@ Please consider subscribing.
 - etc.
 
 ## Data Structures Covered
+
+- Array
+- ArrayList (Dynamic Array)
+- Hash Table
+- Linked List
+- Stack
+- Queues, Priority Queues
+- Binary Trees, Binary Search Trees
+- Graphs
+- Heaps (Min Heaps and Max Heaps)
+- Tries
 
 Read about me here: [mvandi.com](https://mvandi.com)
 
