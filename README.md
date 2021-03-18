@@ -14,17 +14,18 @@ Please consider subscribing.
 
 ## Topics Include
 
-- Arrays
-- Strings
-- Graphs (BFS, DFS)
+- Arrays and Strings
+- Linked Lists and Dynamic Arrays
+- Graphs (BFS, DFS) and Trees
 - Recursion
-- Stacks and Queues
 - Dynamic Programming
+- Stacks and Queues
 - Heaps
 - Searching Algorithms
 - Sorting Algorithms
+- Greedy Algorithms
+- Famous Algorithms
 - String Manipulation
-- Trees
 - etc.
 
 ## Data Structures Covered
