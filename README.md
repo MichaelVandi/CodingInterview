@@ -1,5 +1,9 @@
 # Your Ultimate FREE Coding Interview Prep
 
+Read about me here: [mvandi.com](https://mvandi.com)
+
+Drop a shout out or Follow on [Twitter](https://twitter.com/michael_vandi)? No?
+
 ## See Full Video Whiteboard and Live Coding explanations on my [YouTube channel](https://www.youtube.com/channel/UCZOiUkaF2fy8Mn0gZiKiDyQ/videos)
 
 Please consider subscribing.
@@ -52,7 +56,3 @@ Please consider subscribing.
 - [Linked List Solutions](CrackingTheCodingInterview/LinkedListSolutions/)
 - [Stacks and Queues Solutions](CrackingTheCodingInterview/StacksAndQueues/)
 - [Trees and Graphs Solutions](CrackingTheCodingInterview/TreesAndGraps/)
-
-Read about me here: [mvandi.com](https://mvandi.com)
-
-Drop a shout out or Follow on [Twitter](https://twitter.com/michael_vandi)? No?
