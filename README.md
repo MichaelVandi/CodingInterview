@@ -8,9 +8,14 @@ Please consider subscribing.
 
 ## Difficulty Levels
 
-1. Easy
-2. Medium
-3. Hard
+1. Easy [go to folder](Easy/)
+2. Medium [go to folder](Medium/)
+3. Hard [go to folder](Medium/)
+
+## Enjoy Questions and Solutions from
+
+1. LeetCode
+2. Cracking The Coding Interview [go to folder](CrackingTheCodingInterview/)
 
 ## Topics Include
 
@@ -40,6 +45,13 @@ Please consider subscribing.
 - Graphs
 - Heaps (Min Heaps and Max Heaps)
 - Tries
+
+## Link to solutions from Cracking The Coding Interview
+
+- [Arrays and Strings](CrackingTheCodingInterview/ArraysAndStrings/)
+- [Linked List Solutions](CrackingTheCodingInterview/LinkedListSolutions/)
+- [Stacks and Queues Solutions](CrackingTheCodingInterview/StacksAndQueues/)
+- [Trees and Graphs Solutions](CrackingTheCodingInterview/TreesAndGraps/)
 
 Read about me here: [mvandi.com](https://mvandi.com)
 
