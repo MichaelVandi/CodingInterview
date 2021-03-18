@@ -4,7 +4,7 @@
 
 Please consider subscribing.
 
-![YouTube Channel Homepage](https://drive.google.com/file/d/1gGa6eKCMgiaXNpm4nRy78ei-he1yyjmE/view?usp=sharing)
+![YouTube Channel Homepage](https://drive.google.com/uc?export=view&id=1gGa6eKCMgiaXNpm4nRy78ei-he1yyjmE)
 
 ## Difficulty Levels
 
