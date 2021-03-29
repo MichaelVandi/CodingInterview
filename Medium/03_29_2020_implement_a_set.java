@@ -1,3 +1,6 @@
+// Implement a data structure that supports insert, delete, get random element and search in 0(1) constant time
+// Time: 0(1)
+// Space: 0(n) -> Where n is  the number of elements inserted into the data structure
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
