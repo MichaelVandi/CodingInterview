@@ -1,3 +1,8 @@
+/**
+ * Prompt: Prompt: Given an integer array nums of unique elements, return all possible subsets (the power set).
+    The solution set must not contain duplicate subsets. Return the solution in any order.
+ */
+
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> powerset = new ArrayList<>();
