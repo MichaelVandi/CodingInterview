@@ -24,7 +24,7 @@ public class MyClass {
         Map<Character, Integer> map = new HashMap<>();
         for (int i = 0; i < a.length(); i++) {
             char current = a.charAt(i);
-            // Increment this character's occurences or put 1 if it's the first occurent
+            // Increment this character's occurences or put 1 if it's the first occurence
             map.put(current, map.getOrDefault(current, 0) + 1);
         }
         // Now go through b and make sure it's the same or subtract one
@@ -49,5 +49,24 @@ public class MyClass {
         Arrays.sort(array);
         return new String(array);
     }
+
+    // Did not compile the following method but should be conceptually
+    // understandable
+    public static boolean isPermutation2(String a, String b) {
+        // Count the characters at each ascii index
+        boolean[] ascii = new boolean[128];
+        for (char ca : a.toCharArray()) {
+            int asciiVal = (int) ca;
+            ascii[asciiVal]++;
+        }
+        // Now iterate through ascii with b and subtract
+        for (char cb : b.toCharArray()) {
+            int asciiVal = (int) cb;
+            ascii[asciiVal]--;
+            if (ascii[asciiVal] < 0) return false;
+        }
+        return true;
+    }
     
 }
+
