@@ -16,7 +16,3 @@ public int climbStairs(int n) {
 	return ways[n];
 
 }
-
-                                                                               [ Unknown Command ]
-^G Get Help                  ^O WriteOut                  ^R Read File                 ^Y Prev Page                 ^K Cut Text                  ^C Cur Pos
-
